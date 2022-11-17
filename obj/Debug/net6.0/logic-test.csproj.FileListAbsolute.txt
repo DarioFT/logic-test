@@ -1,0 +1,15 @@
+C:\Development\logic-test\bin\Debug\net6.0\logic-test.exe
+C:\Development\logic-test\bin\Debug\net6.0\logic-test.deps.json
+C:\Development\logic-test\bin\Debug\net6.0\logic-test.runtimeconfig.json
+C:\Development\logic-test\bin\Debug\net6.0\logic-test.dll
+C:\Development\logic-test\bin\Debug\net6.0\logic-test.pdb
+C:\Development\logic-test\obj\Debug\net6.0\logic-test.csproj.AssemblyReference.cache
+C:\Development\logic-test\obj\Debug\net6.0\logic-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\logic-test\obj\Debug\net6.0\logic-test.AssemblyInfoInputs.cache
+C:\Development\logic-test\obj\Debug\net6.0\logic-test.AssemblyInfo.cs
+C:\Development\logic-test\obj\Debug\net6.0\logic-test.csproj.CoreCompileInputs.cache
+C:\Development\logic-test\obj\Debug\net6.0\logic-test.dll
+C:\Development\logic-test\obj\Debug\net6.0\refint\logic-test.dll
+C:\Development\logic-test\obj\Debug\net6.0\logic-test.pdb
+C:\Development\logic-test\obj\Debug\net6.0\logic-test.genruntimeconfig.cache
+C:\Development\logic-test\obj\Debug\net6.0\ref\logic-test.dll
